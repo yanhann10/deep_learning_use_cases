@@ -1,1 +1,3 @@
-# deep_learning_use_cases
+# Deep Learning Use Cases
+
+Projects on deep learning. More to come.
