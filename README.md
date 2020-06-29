@@ -1,3 +1,13 @@
 # Deep Learning Use Cases
 
-Projects on deep learning. More to come.
+### Project types
+
+- image classification
+- object detection
+- style transfer
+
+### Tools used
+
+Pytorch, Keras
+
+More to come
